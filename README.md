@@ -1,5 +1,5 @@
-I design, build, and scale full-featured platforms solo — from UI/UX to backend, analytics, and growth.  
-All projects are 100% independently developed, with no external team or promotion.
+**I design, build, and scale full-featured platforms solo — from UI/UX to backend, analytics, and growth.**  
+**All projects are 100% independently developed, with no external team or promotion.**
 
 <!-- Top image (summary for all XR platforms) -->
 Here’s a visual summary of the XR system across AR / VR / MR:
