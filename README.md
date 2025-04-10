@@ -22,3 +22,8 @@ These platforms are mainly used by international users and were built entirely s
 ![XR Layout](https://s.xrsns.com/imgMaster/imgXrl/imgXrl_0.png)
 ![XR Designer](https://s.xrsns.com/imgMaster/imgXrd/imgXrd_0.png)
 ![XRSNS](https://s.xrsns.com/imgMaster/imgXrsns/imgXrsns_0.png)
+
+---
+
+© 2025 Camity / XRSNS. All projects are independently developed and maintained.  
+For more information, visit [BCG Wiki](https://bcgwiki.com) or [XRSNS](https://xrsns.com).
