@@ -1,6 +1,8 @@
 I design, build, and scale full-featured platforms solo — from UI/UX to backend, analytics, and growth.  
 All projects are 100% independently developed, with no external team or promotion.
 
+![XR System Summary](https://s.xrsns.com/imgMaster/imgXrsns/guide/summary/summary_allInOneEn_0.png)
+
 Projects:
 
 - **[BCG Wiki](https://bcgwiki.com):** A Web3-focused, SNS-style strategy platform for blockchain games. Includes community features like rental boards, player logs, and data visualization.  
@@ -12,6 +14,3 @@ Projects:
 These platforms are mainly used by international users and were built entirely solo.
 
 **I believe in accelerating the progress of humanity as a whole — it’s my life’s mission.**
-
-![XR System Summary](https://your-image-url.com/summary_allInOneEn_0.png)
-
