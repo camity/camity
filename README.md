@@ -12,3 +12,6 @@ Projects:
 These platforms are mainly used by international users and were built entirely solo.
 
 **I believe in accelerating the progress of humanity as a whole — it’s my life’s mission.**
+
+![XR System Summary](https://your-image-url.com/summary_allInOneEn_0.png)
+
