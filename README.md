@@ -7,7 +7,7 @@ Here’s a visual summary of the XR system across AR / VR / MR:
 
 Projects:
 
-- **[BCG Wiki](https://bcgwiki.com):** A Web3-focused, SNS-style strategy platform for blockchain games. Includes community features like rental boards, player logs, and data visualization.  
+- **[BCGwiki](https://bcgwiki.com):** A Web3-focused, SNS-style strategy platform for blockchain games. Includes community features like rental boards, player logs, and data visualization.  
 - **[XRSNS](https://xrsns.com):** A WebAR-based social platform where users can upload and share 3D models. These models are also usable in the XR apps below.  
 - **[XR Designer](https://xrsns.org):** A Quest-native VR app for creating and sharing virtual rooms.  
 - **[XR Layout](https://xrlayout.com):** A Quest-native MR app for rearranging real-world interiors using mixed reality.  
@@ -26,4 +26,4 @@ These platforms are mainly used by international users and were built entirely s
 ---
 
 © 2025 Camity / XRSNS and BCGwiki. All projects are independently developed and maintained.  
-For more information, visit [BCG Wiki](https://bcgwiki.com) or [XRSNS](https://xrsns.com).
+For more information, visit [BCGwiki](https://bcgwiki.com) or [XRSNS](https://xrsns.com).
