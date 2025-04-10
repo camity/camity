@@ -25,5 +25,5 @@ These platforms are mainly used by international users and were built entirely s
 
 ---
 
-© 2025 Camity / XRSNS. All projects are independently developed and maintained.  
+© 2025 Camity / XRSNS and BCGwiki. All projects are independently developed and maintained.  
 For more information, visit [BCG Wiki](https://bcgwiki.com) or [XRSNS](https://xrsns.com).
