@@ -1,5 +1,4 @@
-**I design, build, and scale full-featured platforms solo — from UI/UX to backend, analytics, and growth.**  
-**All projects are 100% independently developed, with no external team or promotion.**
+**I develop Web3 and XR services such as BCGwiki and XRSNS, handling everything from system architecture to visual design — including key visuals, UI/UX, and platform growth.**  
 
 <!-- BCGwiki | Key Visual #01 -->
 BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)
