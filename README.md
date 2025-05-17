@@ -1,7 +1,7 @@
 **I develop Web3 and XR services such as BCGwiki and XRSNS, handling everything from system architecture to visual design — including key visuals, UI/UX, and platform growth.**  
 
 <!-- BCGwiki | Key Visual #01 -->
-BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)
+**BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)**
 ![BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)](https://storage.googleapis.com/bcg-wiki-mgmt/img-master/img-top/cyber/bcgwiki-image-jp0.png)
 Description:
 A fusion of fantasy grandeur and anime character design.
@@ -10,7 +10,7 @@ This piece invites imagination, with a world where nature and civilization subtl
 Designed with global audiences in mind.
 
 <!-- BCGwiki | Key Visual #02 -->
-BCGwiki | Key Visual #02 – Echoes of a New World
+**BCGwiki | Key Visual #02 – Echoes of a New World**
 ![BCGwiki | Key Visual #02 – Echoes of a New World](https://storage.googleapis.com/bcg-wiki-mgmt/img-master/img-top/fantasy/bcgwiki-image-en0.png)
 Description:
 A fusion of fantasy grandeur and anime character design.
@@ -19,7 +19,7 @@ This piece invites imagination, with a world where nature and civilization subtl
 Designed with global audiences in mind.
 
 <!-- BCGwiki | Key Visual #03 -->
-BCGwiki | Key Visual #03 – Flame of Victory
+**BCGwiki | Key Visual #03 – Flame of Victory**
 ![BCGwiki | Key Visual #03 – Flame of Victory](https://storage.googleapis.com/bcg-wiki-mgmt/img-master/img-top/fight/bcgwiki-image-jp0.png)
 Description:
 The third visual bursts with fiery reds and warm oranges.
@@ -28,7 +28,7 @@ The bold linework enhances her presence, embracing a distinctly anime style.
 Tailored for the visual sensibilities of a Japanese-speaking audience.
 
 <!-- Top image (summary for all XR platforms) -->
-Here’s a visual summary of the XR system across AR / VR / MR:
+**Here’s a visual summary of the XR system across AR / VR / MR:**
 ![XR System Summary](https://s.xrsns.com/imgMaster/imgXrsns/guide/summary/summary_allInOneEn_0.png)
 
 Projects:
