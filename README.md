@@ -1,6 +1,15 @@
 **I design, build, and scale full-featured platforms solo — from UI/UX to backend, analytics, and growth.**  
 **All projects are 100% independently developed, with no external team or promotion.**
 
+<!-- Top image (summary for all BCGwiki) -->
+BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)
+![BCGwiki | Key Visual #01 – Cyberpunk (Main Visual)](https://storage.googleapis.com/bcg-wiki-mgmt/img-master/img-top/cyber/bcgwiki-image-jp0.png)
+Description:
+A fusion of fantasy grandeur and anime character design.
+Amid a vast mystical landscape, the heroine gazes calmly at the viewer.
+This piece invites imagination, with a world where nature and civilization subtly collide.
+Designed with global audiences in mind.
+
 <!-- Top image (summary for all XR platforms) -->
 Here’s a visual summary of the XR system across AR / VR / MR:
 ![XR System Summary](https://s.xrsns.com/imgMaster/imgXrsns/guide/summary/summary_allInOneEn_0.png)
